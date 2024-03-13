@@ -6,10 +6,8 @@
 **Event Timeline:** 12:01 AM 15th March to 11:59 PM 17th March, 2024
 
 <p align="center">
-  <img width="460" src="https://user-images.githubusercontent.com/54657980/158048573-f2ca4f6b-1b19-4906-9ef0-9acd17a5098c.png">
+  <img width="460" src="https://github.com/iiitl/FOSS-Weekend-2024/assets/11803841/9103048c-2813-479b-94c7-710ea94a37c7">
 </p>
-
-
 
 ## Instructions
 
