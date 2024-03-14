@@ -11,6 +11,9 @@
 
 ## Instructions
 
+- Kindly fork and clone the repos first, on which you have decided to work on.
+- You should create a new branch and do your work there, then the PR would be merging from your branch to repo's main branch.
+
 - Create a pull request for the issues and/or instructions highlighted in the readme of the following projects. 
 - Try to complete the `must do` tasks before you move further, because they will give you a very good foundational knowledge about git by visiting the repositories, and looking through the issues. 
 - The issues are tagged *easy*, to *hard* depending on difficulty. 
