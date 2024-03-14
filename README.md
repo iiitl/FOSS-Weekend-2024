@@ -38,6 +38,10 @@ Climb to the top of the leaderboard and win some amazing prizes!
 - **Create separate branches for new features**: create a new branch from main/master for each new features or bug fixes you are working on.
 - **Regularly merge from the main branch**: To keep your branches up-to-date, regularly merge changes from the main branch into your feature branches.
 
+#### MUST DO
+Git Practice
+- https://github.com/iiitl/git-practice-weekend-24
+
 ### Repos
 
 1. Web3
@@ -64,9 +68,6 @@ Climb to the top of the leaderboard and win some amazing prizes!
 
 6. Bash Practice
 - https://github.com/iiitl/bash-practice-repo-24
-
-7. Git Practice
-- https://github.com/iiitl/git-practice-weekend-24
 
 ---
 
