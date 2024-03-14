@@ -1,9 +1,9 @@
 # FOSS-Weekend-2024
 
 ## About
-[Equinox'24](https://equinox.iiitl.ac.in/) presents a 2 day long event **FOSS Weekend** presented by **GitHub** and [**Axios**](http://axios.iiitl.ac.in/), where participants will get the opportunity to handle issues related to the technology that interests you and win exciting prizes from GitHub. This event will be a great chance for growing developers of 1st year to practice and brush up their skills in git, which is a very essential part of their learning journey.
+[Equinox'24](https://equinox.iiitl.ac.in/) presents a 3 day long event **FOSS Weekend** presented by **GitHub** and [**Axios**](http://axios.iiitl.ac.in/), where participants will get the opportunity to handle issues related to the technology that interests you and win exciting prizes from GitHub. This event will be a great chance for growing developers of 1st year to practice and brush up their skills in git, which is a very essential part of their learning journey.
 
-**Event Timeline:** 12:01 AM 15th March to 11:59 PM 17th March, 2024
+**Event Timeline:** 12:30 AM 15th March to 11:59 PM 17th March, 2024
 
 <p align="center">
   <img width="460" src="https://github.com/iiitl/FOSS-Weekend-2024/assets/11803841/9103048c-2813-479b-94c7-710ea94a37c7">
@@ -26,8 +26,8 @@ Keep an eye on the leaderboard to see how you're faring against the competition.
 Climb to the top of the leaderboard and win some amazing prizes! 
 
 
-### Special Instructions for `to-be-assigned` labelled issues:
-- If the issue has a `to-be-assigned` label, ask for the issue to be assigned to you, and start working on it only after you recieve confirmation that you have been assigned. These issues will be assigned only to 3 participants on a first come first serve basis, and each of them will have to submit a PR fixing it within 3 hours from the time of assignment. (You can ask for more time if you require it)
+### Special Instructions for `hard` labelled issues:
+- If the issue has a `hard` label, ask for the issue to be assigned to you, and start working on it only after you recieve confirmation that you have been assigned. These issues will be assigned only to 3 participants on a first come first serve basis, and each of them will have to submit a PR fixing it within 3 hours from the time of assignment. (You can ask for more time if you require it)
 
 - If you realise after getting yourself assigned an issue, that you cannot work on it due to any reason, be sure to unassign yourself, to give a chance to others who may want to work on the issue. Also leave a comment informing everyone that this issue is again open to assignment.
 
