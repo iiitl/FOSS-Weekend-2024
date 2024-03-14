@@ -35,3 +35,26 @@ Climb to the top of the leaderboard and win some amazing prizes!
 - **Create separate branches for new features**: create a new branch from main/master for each new features or bug fixes you are working on.
 - **Regularly merge from the main branch**: To keep your branches up-to-date, regularly merge changes from the main branch into your feature branches.
 
+### Repos
+
+1. Web3
+  https://github.com/iiitl/Realty
+
+2. App Dev
+  https://github.com/iiitl/translate_app
+  https://github.com/iiitl/Chat_buddy
+  https://github.com/iiitl/Jumble-Words
+  https://github.com/iiitl/Media-Player
+
+4. ML
+  https://github.com/iiitl/Classification
+  https://github.com/iiitl/Regression
+
+5. Web Dev
+  https://github.com/iiitl/Wollete
+  https://github.com/iiitl/crypto_project_foss_weekend
+  https://github.com/iiitl/Sattebazi
+  https://github.com/iiitl/snake-game-js
+  https://github.com/iiitl/GitHub-finder
+  https://github.com/iiitl/mern-auth
+  https://github.com/iiitl/NOTE-GENERATOR 
