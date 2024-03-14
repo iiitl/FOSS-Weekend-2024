@@ -48,8 +48,8 @@ Git Practice : Learn git for FOSS development, right from the fundamentals - htt
 2. App Dev
 - https://github.com/iiitl/translate_app - The repository contains a Flutter application designed for text translation, offering users a seamless and intuitive interface for translating messages into various languages.
 - https://github.com/iiitl/Chat_buddy - ChatBuddy is a Flutter app facilitating real-time communication and interaction among users through Firebase services.
-- https://github.com/iiitl/Jumble-Words - Jumble Words is a single player game app made using kotlin that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
-- https://github.com/iiitl/Media-Player - Media-Player: A Kotlin app featuring an activity to play songs.
+- https://github.com/iiitl/Jumble_Words - Jumble Words is a single player game app made using kotlin that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
+- https://github.com/iiitl/Media_Player - Media-Player: A Kotlin app featuring an activity to play songs.
 
 4. ML
 - https://github.com/iiitl/Classification - This repository hosts a project centered around conducting classification analyses using our specific dataset.
