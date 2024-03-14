@@ -47,11 +47,11 @@ Climb to the top of the leaderboard and win some amazing prizes!
 - https://github.com/iiitl/translate_app - The repository contains a Flutter application designed for text translation, offering users a seamless and intuitive interface for translating messages into various languages.
 - https://github.com/iiitl/Chat_buddy - ChatBuddy is a Flutter app facilitating real-time communication and interaction among users through Firebase services.
 - https://github.com/iiitl/Jumble-Words - Jumble Words is a single player game app made using kotlin that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
-- https://github.com/iiitl/Media-Player
+- https://github.com/iiitl/Media-Player - Media-Player: A Kotlin app featuring an activity to play songs.
 
 4. ML
 - https://github.com/iiitl/Classification
-- https://github.com/iiitl/Regression
+- https://github.com/iiitl/Regression - This repository hosts a project centered around conducting regression analyses using our specific dataset.
 
 5. Web Dev
 - https://github.com/iiitl/Wollete
@@ -60,4 +60,14 @@ Climb to the top of the leaderboard and win some amazing prizes!
 - https://github.com/iiitl/snake-game-js - A classic Snake game built using HTML, CSS, and JavaScript. This simple game allows players to control a snake,  eat food and grow longer while avoiding collisions.
 - https://github.com/iiitl/GitHub-finder
 - https://github.com/iiitl/mern-auth - A MERN stack project featuring user authentication and a CRUD application for basic task management.
-- https://github.com/iiitl/NOTE-GENERATOR 
+- https://github.com/iiitl/NOTE-GENERATOR
+
+6. Bash Practice
+- https://github.com/iiitl/bash-practice-repo-24
+
+7. Git Practice
+- https://github.com/iiitl/git-practice-weekend-24
+
+---
+
+[Leaderboard](https://ecxtacy.github.io/FOSS-Weekend-2024-Leaderboard/)
