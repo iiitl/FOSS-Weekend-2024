@@ -38,34 +38,37 @@ Climb to the top of the leaderboard and win some amazing prizes!
 - **Create separate branches for new features**: create a new branch from main/master for each new features or bug fixes you are working on.
 - **Regularly merge from the main branch**: To keep your branches up-to-date, regularly merge changes from the main branch into your feature branches.
 
-#### MUST DO
-Git Practice : Learn git for FOSS development, right from the fundamentals - https://github.com/iiitl/git-practice-weekend-24
+# [Leaderboard](https://ecxtacy.github.io/FOSS-Weekend-2024-Leaderboard/)
 
-### Repos
+## MUST DO
+- Git Practice : Learn git for FOSS development, right from the fundamentals - https://github.com/iiitl/git-practice-weekend-24
 
-1. Web3 : A Real Estate Platform using Blockchain and Web Development - https://github.com/iiitl/Realty
+## Repos
+
+1. Web3
+  - https://github.com/iiitl/Realty - A Real Estate Platform using Blockchain and Web Development
 
 2. App Dev
-- https://github.com/iiitl/translate_app - The repository contains a Flutter application designed for text translation, offering users a seamless and intuitive interface for translating messages into various languages.
-- https://github.com/iiitl/Chat_buddy - ChatBuddy is a Flutter app facilitating real-time communication and interaction among users through Firebase services.
-- https://github.com/iiitl/Jumble_Words - Jumble Words is a single player game app made using kotlin that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
-- https://github.com/iiitl/Media_Player - Media-Player: A Kotlin app featuring an activity to play songs.
+  - https://github.com/iiitl/translate_app - The repository contains a Flutter application designed for text translation, offering users a seamless and intuitive interface for translating messages into various languages.
+  - https://github.com/iiitl/Chat_buddy - ChatBuddy is a Flutter app facilitating real-time communication and interaction among users through Firebase services.
+  - https://github.com/iiitl/Jumble_Words - Jumble Words is a single player game app made using kotlin that displays scrambled words. To play the game, player has to make a word using all the letters from the displayed scrambled word.
+  - https://github.com/iiitl/Media_Player - Media-Player: A Kotlin app featuring an activity to play songs.
 
 4. ML
-- https://github.com/iiitl/Classification - This repository hosts a project centered around conducting classification analyses using our specific dataset.
-- https://github.com/iiitl/Regression - This repository hosts a project centered around conducting regression analyses using our specific dataset.
+  - https://github.com/iiitl/Classification - This repository hosts a project centered around conducting classification analyses using our specific dataset.
+  - https://github.com/iiitl/Regression - This repository hosts a project centered around conducting regression analyses using our specific dataset.
 
 5. Web Dev
-- https://github.com/iiitl/Wollete - Next.js project facilitating secure, anonymous digital receipt transmission for paperless transactions and billing among diverse entities.
-- https://github.com/iiitl/crypto_project - This is a project showcasing stunning animations 
-- https://github.com/iiitl/Sattebazi - 
-- https://github.com/iiitl/snake-game-js - A classic Snake game built using HTML, CSS, and JavaScript. This simple game allows players to control a snake,  eat food and grow longer while avoiding collisions.
-- https://github.com/iiitl/GitHub-finder - Github Finder is a platform designed to assist individuals seeking team members for hackathons.
-- https://github.com/iiitl/mern_auth - A MERN stack project featuring user authentication and a CRUD application for basic task management.
-- https://github.com/iiitl/NOTE_GENERATOR - Note Generator is a note-taking app for the web. 
+  - https://github.com/iiitl/Wollete - Next.js project facilitating secure, anonymous digital receipt transmission for paperless transactions and billing among diverse entities.
+  - https://github.com/iiitl/crypto_project - This is a project showcasing stunning animations 
+  - https://github.com/iiitl/Sattebazi - Stay tuned! XD!
+  - https://github.com/iiitl/snake-game-js - A classic Snake game built using HTML, CSS, and JavaScript. This simple game allows players to control a snake,  eat food and grow longer while avoiding collisions.
+  - https://github.com/iiitl/GitHub-finder - Github Finder is a platform designed to assist individuals seeking team members for hackathons.
+  - https://github.com/iiitl/mern_auth - A MERN stack project featuring user authentication and a CRUD application for basic task management.
+  - https://github.com/iiitl/NOTE_GENERATOR - Note Generator is a note-taking app for the web. 
 
-6. Bash Practice - https://github.com/iiitl/bash-practice-repo-24 - A set of scripts which make your life easier in linux
+6. Bash Practice
+   - https://github.com/iiitl/bash-practice-repo-24 - A set of scripts which make your life easier in linux
 
 ---
 
-[Leaderboard](https://ecxtacy.github.io/FOSS-Weekend-2024-Leaderboard/)
